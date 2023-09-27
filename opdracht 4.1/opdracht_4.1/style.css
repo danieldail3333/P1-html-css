@@ -21,3 +21,36 @@ a {
     color: #8a2be2;
     text-decoration: none;
 }
+header {
+    width: 100%;
+    min-height: 35vh;
+    background-color: red;
+    background-image: url(R.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat;
+    color: aliceblue;
+}
+article {
+    border:3px solid red;
+    border-radius: 3px;
+    border-top-style:groove;
+    border-right-style: solid;
+    border-bottom-style: hidden;
+    border-left-style: solid;
+    border-left-width: thick;
+
+}
+html {
+    font-size: 62, 5;
+}
+img {
+    width: 50vw;
+    height: 100vh;
+}
+.paragraaf{
+    color: aqua;
+}
+
+
+
