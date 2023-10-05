@@ -1,0 +1,41 @@
+.flexbox-container{
+    display: flex;
+    width: 1200px;
+}
+
+.flexbox-item {
+width: 200px;
+margin: 10px;
+background-color:#dfdfdf;
+}
+
+.flexbox-item-1 {
+    width: 200px;
+min: height 200px;
+background-color:green;
+}
+
+.flexbox-item-2{
+    width: 200px;
+    min: height 200px;   
+    background-color:red; 
+}
+
+.flexbox-item-3{
+    width: 200px;
+min-height: 200px;
+background-color:black;
+}
+
+.flexbox-item-4{
+    width: 200px;
+min-height: 200px;
+background-color:blue;
+}
+
+
+
+
+
+
+
