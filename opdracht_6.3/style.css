@@ -1,0 +1,24 @@
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px;
+        }
+
+        
+
+        nav #logo, nav #login {
+            flex: 1;
+            text-align: center;
+        }
+
+        nav #menu {
+            flex: 2;
+            display: flex;
+            justify-content: space-around;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+    
